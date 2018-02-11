@@ -1,0 +1,12 @@
+    ::ng-deep #myAvatar span.ui-button {
+        border-color:red;
+        background: none;
+        color: red ;
+        font-family: inherit;
+    }
+    ::ng-deep #myAvatar span.ui-button .ui-button-icon-left {
+        display:none !important;
+    }
+    ::ng-deep #myAvatar span.ui-button .ui-button-text {
+        padding:.375rem .75rem !important;
+    }

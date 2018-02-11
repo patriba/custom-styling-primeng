@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app';
+
+  onFileChange(event) {
+    // tslint:disable-next-line:comment-format
+    //something;
+  }
 }
